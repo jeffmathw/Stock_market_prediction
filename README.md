@@ -12,6 +12,9 @@ Long term Price Prediction using LSTM machine learning model and Google Collab.
 Implement sentiment analysis.
 Comparison of LSTM Model Performance With and Without News Sentiment Analysis
 
+The webapp.py file is the main python program which uses stremlit to show UI.
+stock_news_scraping.py is used to extract news of a particular stock
+
 Activate Virtual environment in python and install the :
 Libraries used :
 1.  **fsspec:** `pip install fsspec`
